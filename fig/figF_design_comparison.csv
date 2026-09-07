@@ -1,0 +1,8 @@
+variable,baseline,optimised
+t1,6.0,5.75
+t2,6.0,3.0
+tr,4.0,2.0
+hr,40.0,80.0
+lr,40.0,78.5
+W,60.0,40.0
+rf_ratio,0.67,0.25
